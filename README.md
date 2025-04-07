@@ -7,7 +7,6 @@
 
 
 ### 🔭 I’m currently working on:
-- Building and improving my personal **portfolio** website.
 - Developing projects using technologies like **Node.js**, **React.js**, **Django**, and **MongoDB**.
 - Exploring full-stack development and learning about cloud technologies.
 
